@@ -5,7 +5,7 @@
 
 ## Built With
 
-- Languages: HTML, CSS and JS
+- Languages: JavaScript, DOM, Node
 - Technologies: Git, GitHub, VSCode
 
 
