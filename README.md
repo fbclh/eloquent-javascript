@@ -12,8 +12,8 @@ This project is based on an online conference designed by [Cindy Shin](https://w
 
 ## Authors
 
-GitHub: [github.com/fbclh](https://github.com/fbclh)
-LinkedIn: [linkedin.com/in/fbclh](https://www.linkedin.com/in/fbclh)
+- GitHub: [github.com/fbclh](https://github.com/fbclh)
+- LinkedIn: [linkedin.com/in/fbclh](https://www.linkedin.com/in/fbclh)
 
 
 ## License
